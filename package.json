@@ -1,6 +1,6 @@
 {
   "name": "node-angular-mail",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeJS module to create HTML templates for mails using AngularJS syntax, along with Juice to get beautiful CSS injected directly into your generated templates",
   "main": "index.js",
   "scripts": {
