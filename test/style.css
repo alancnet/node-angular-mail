@@ -1,0 +1,11 @@
+div.upper{
+    background-color: red;
+}
+div.middle{
+    padding: 10px;
+    color: grey;
+}
+div.last{
+    margin-top: 10px;
+    font-size: 16px;
+}

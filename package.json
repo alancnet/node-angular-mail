@@ -1,0 +1,32 @@
+{
+  "name": "node-angular-mail",
+  "version": "1.0.1",
+  "description": "NodeJS module to create HTML templates for mails using AngularJS syntax, along with Juice to get beautiful CSS injected directly into your generated templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "angular",
+    "html",
+    "mail",
+    "templates",
+    "node",
+    "nodejs",
+    "cheerio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalsayed/node-angular-mail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eternalsayed/node-angular-mail/issues"
+  },
+  "homepage": "https://github.com/eternalsayed/node-angular-mail#readme",
+  "author": "Sayed Ahad Abbas",
+  "license": "MIT",
+  "dependencies": {
+    "angular-template": "^2.0.13",
+    "juice": "git+https://github.com/Automattic/juice.git"
+  }
+}
